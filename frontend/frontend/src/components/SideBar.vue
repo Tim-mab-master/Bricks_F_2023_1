@@ -101,7 +101,7 @@ export default {
     const addClicked = (value) =>{
       value = true;
       // emit('showAdd',value);
-      router.push('/meetingRecord');
+      router.push('/meetingRecordNew');
     };
 
     const selected = () =>{

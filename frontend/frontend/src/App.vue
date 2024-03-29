@@ -22,20 +22,18 @@ export default {
 </script>
 
 <style>
-
 body {
   margin: 0;
 }
 
-@import url('http://fonts.googleapis.com/css?family=Noto+Sans+TC:100,300,400,500,700,900');
+@import url("http://fonts.googleapis.com/css?family=Noto+Sans+TC:100,300,400,500,700,900");
 
 #app {
   width: 100vw;
 }
 
-
 #app {
-  font-family: 'PingFang TC', 'Helvetica Neue';
+  font-family: "PingFang TC", "Helvetica Neue";
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   /* text-align: center; */
@@ -45,7 +43,7 @@ body {
 nav {
   padding: 30px;
 }
-
+/* 1 */
 nav a {
   font-weight: bold;
   color: #2c3e50;
@@ -59,5 +57,5 @@ nav a.router-link-exact-active {
   margin: 0;
   padding: 0;
   border: 0;
-} 
+}
 </style>

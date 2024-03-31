@@ -43,7 +43,7 @@ body {
 nav {
   padding: 30px;
 }
-/* 1 */
+/* 2 */
 nav a {
   font-weight: bold;
   color: #2c3e50;

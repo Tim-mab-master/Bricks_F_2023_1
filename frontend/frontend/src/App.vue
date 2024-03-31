@@ -7,7 +7,7 @@
     <router-link to="/sharon">Sharon</router-link> |
     <router-link to="/kerwin">Kerwin</router-link>
   </nav> -->
-
+  <!--  -->
   <!-- 加上這個才會顯示 views 裏面的東西 -->
   <router-view />
 </template>
